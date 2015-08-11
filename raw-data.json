@@ -1,0 +1,33 @@
+[{
+  "children": [
+    {
+      "children": null,
+      "depth": 1,
+      "name": "render_child1",
+      "startTime": 50,
+      "endTime": 120,
+      "parent": "render"
+    },
+    {
+      "children": null,
+      "depth": 1,
+      "name": "render_child2",
+      "startTime": 120,
+      "endTime": 250,
+      "parent": "render"
+    }
+  ],
+  "depth": 0,
+  "name": "render",
+  "startTime": 50,
+  "endTime": 280,
+  "parent": null
+  },
+  {
+  "children": null,
+  "depth": 0,
+  "name": "show",
+  "startTime": 280,
+  "endTime": 390,
+  "parent": null
+}]
